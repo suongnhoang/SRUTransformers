@@ -1,0 +1,5 @@
+runs/
+weights/
+papers/
+datasets/
+__pycache__
